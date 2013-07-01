@@ -1,0 +1,7 @@
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Services\bin\Debug\REPORT01.Services.dll
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Services\bin\Debug\REPORT01.Services.pdb
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Services\obj\Debug\REPORT01.Services.dll
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Services\obj\Debug\REPORT01.Services.pdb
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Services\bin\Debug\REPORT01.Model.dll
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Services\bin\Debug\REPORT01.Model.pdb
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Services\obj\Debug\REPORT01.Services.csprojResolveAssemblyReference.cache

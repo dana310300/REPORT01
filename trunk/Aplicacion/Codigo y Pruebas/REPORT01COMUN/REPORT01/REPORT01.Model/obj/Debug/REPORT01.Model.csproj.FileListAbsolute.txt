@@ -1,0 +1,4 @@
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Model\bin\Debug\REPORT01.Model.dll
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Model\bin\Debug\REPORT01.Model.pdb
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Model\obj\Debug\REPORT01.Model.dll
+C:\Users\davila\Documents\Visual Studio 2010\Projects\REPORT01\REPORT01.Model\obj\Debug\REPORT01.Model.pdb
